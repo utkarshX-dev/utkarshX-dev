@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Utkarsh! 👋
 
-<!--
-**utkarshX-dev/utkarshX-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🌱 I’m currently diving deep into **Data Structures & Algorithms (DSA)** and **Web Development**.
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: **First, I wrote code. Then, code rewired me. 💻❤️!** .
+- 🏆 LeetCode: https://leetcode.com/u/Utkarsh_bhandari/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Languages:** JavaScript, C++.
+- **Frontend:** React.js, HTML, CSS, TailwindCSS.
+- **Backend:** Node.js, Express.js, MongoDB.
+- **Tools :** Git, GitHub.
+
+## 📊 GitHub Stats
+
+![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+***Someone's Maximum, Someone's Minimum! 🚀***
+
