@@ -14,6 +14,10 @@
 - **Backend:** Node.js, Express.js, MongoDB.
 - **Tools :** Git, GitHub.
 
+## 📊 Most Used Languages  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
 ## 📊 GitHub Stats
 
 ![Utkarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
