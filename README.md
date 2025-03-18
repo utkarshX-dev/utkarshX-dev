@@ -14,8 +14,6 @@
 - **Backend:** Node.js, Express.js, MongoDB.
 - **Tools :** Git, GitHub.
 
-## 📊 Most Used Languages  
-
 
 ***Someone's Maximum, Someone's Minimum! 🚀***
 
