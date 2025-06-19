@@ -16,7 +16,7 @@
 - 👨‍💻 I’m currently deep-diving into **Data Structures & Algorithms (DSA)** and enhancing my **Web Development** skills.
 - 🎯 Aspriring Software Engineer 🥷.
 - 🧠 Currently sharpening skills in **Web development**, **DSA**, and **Real-world Projects**.
-- 📫 How to reach me: [utkarshX-dev@users.noreply.github.com](mailto:utkarshX-dev@users.noreply.github.com)
+- 📩 [utkarshX-dev@users.noreply.github.com](mailto:utkarshX-dev@users.noreply.github.com)
 - 🏆 LeetCode: [leetcode.com/u/Utkarsh_bhandari](https://leetcode.com/u/Utkarsh_bhandari/)
 
 ---
