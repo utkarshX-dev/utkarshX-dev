@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Utkarsh! 👋</h1>
 
-<p align="center">
-  <em>"Someone's Maximum, Someone's Minimum! 🚀"</em>
-</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Vibe+Coding;Full+stack+Web+Developer;DSA+Explorer;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Vibe+Coding;MERN+Stack;DSA;Always+Learning+📚" alt="Typing SVG" />
 </p>
 
 
