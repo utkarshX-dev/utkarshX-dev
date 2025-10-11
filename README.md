@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Utkarsh! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack;Next.js;TypeScript;DSA+%F0%9F%93%96;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=MERN+Stack;Next.js;TypeScript;DSA+%F0%9F%93%96;" alt="Typing SVG" />
 </p>
 
 <p align="center">
