@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Deep-diving into **Data Structures & Algorithms (DSA)** and **Web Development**.
-- 🎯 Aspiring Software Engineer 🥷.
+- 👨‍💻 Deep-diving into **AI/ML** and **Web Development**.
+- 🎯 Aspiring Software Engineer.
 - 🧠 Sharpening skills in **Next.js**, **TypeScript**, **DSA**, and **real-world projects**.
 - 📩 Reach me at: [utkarshX-dev@users.noreply.github.com](mailto:utkarshX-dev@users.noreply.github.com)
-- 🏆 LeetCode: [leetcode.com/u/Utkarsh_bhandari](https://leetcode.com/u/Utkarsh_bhandari/)
+- 🏆 LeetCode: [leetcode.com/u/Utkarsh_bhandari](https://leetcode.com/u/ishowcode4444/)
 
 ---
 
@@ -54,9 +54,9 @@
 
 ## 🔥 Currently Working On
 
-- 👨‍💻 Building full-stack apps 
-- 🧠 Mastering DSA
-- 🎯 Learning and exploring new tools & frameworks
+-  Building Scalable Full Stack apps 
+-  Algorithms
+- Learning and exploring new tools & ML frameworks
 
 ---
 
