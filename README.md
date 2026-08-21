@@ -46,7 +46,7 @@
 
 -  Building Scalable Full Stack apps 
 -  Algorithms
-- Learning and exploring new tools & ML frameworks
+- Learning and exploring new tools & GenAI
 
 ---
 
