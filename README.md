@@ -10,16 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 👨‍💻 Deep-diving into **AI/ML** and **Web Development**.
-- 🎯 Aspiring Software Engineer.
-- 🧠 Sharpening skills in **Next.js**, **TypeScript**, **DSA**, and **real-world projects**.
-- 📩 Reach me at: [utkarshX-dev@users.noreply.github.com](mailto:utkarshX-dev@users.noreply.github.com)
-- 🏆 LeetCode: [leetcode.com/u/Utkarsh_bhandari](https://leetcode.com/u/ishowcode4444/)
-
----
-
 ## 💻 Tech Stack
 
 ### 👨‍🏫 Languages
